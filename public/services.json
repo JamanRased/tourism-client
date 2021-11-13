@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Most Beautiful Ratatgul Swamp Forest",
+        "price": "3000",
+        "description": "Ratargul Swamp Forest is the only swamp forest in Bangladesh where you can enjoy different kinds of creatures here like monkey, eagle, insects, fish, birds, etc and this evergreen forest is located beside a river named Goain. ",
+        "img": "https://i.ibb.co/z6Hg2jX/ratatul-forest.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Srimagal ",
+        "price": "100",
+        "description": "The Capital of tea in Bangladesh is Srimagal which is situated in the north-eastern part of the country where you will find lush greenery fields all around. It is one of the best places in Bangladesh where you can really have the place & clam environment and there are two more visiting places too, Lawachhara National Park & Hamham Waterfalls.",
+        "img": "https://i.ibb.co/RvzS6KB/srimongol.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dhaka To Rangamati",
+        "price": "3300",
+        "description": "The District of Chittagong Hill Tracks area in Rangamati, a place full of natural amusement and here, here, you can find a man-made lake surrounded by Hill called Kaptai Lake where you can take a ride by boat all over the day, a Buddhis Monastery here named Rajban Bihara, a high-quality handicrafts market made by the tribal of Rangamati.",
+        "img": "https://i.ibb.co/LC99f1F/rangamati.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Try Us Mission Sundarbans Form Dhaka",
+        "price": "5080",
+        "description": "Sundarbans has declared World Heritage Site by UNESCO which is the largest Mangrove Forest situated between two countries. It is the kingdom of Royal Bengal tiger and you will find various kinds of species of birds, animals & plants and I think you should visit the tranquilizing beauty of Sundarbans once in your life.",
+        "img": "https://i.ibb.co/BC3XwCZ/sundarban.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Small Wish with us LALBAG",
+        "price": "1050",
+        "description": "Lalbag Fort or Aurangabad is another most famous historical place in Bangladesh. It is situated beside the Buriganga River, in the southwestern part of Dhaka, Bangladesh. It was built by Mudmhammad Azam in 1678. Lalbag Fort represents the incomplete dream of the Mughal prince. ",
+        "img": "https://i.ibb.co/QD8Th6g/lalbag.jpg"
+    },
+    {
+        "id": 6,
+        "name": "You Know Ahsan Manzil:",
+        "price": "1800",
+        "description": "Ahsan Manzil or the Pink Palace, the most meaningful architectural heritage, was built by Nawab Abdul Gani in 1872. This two-story building is now a museu displaying all kinds of objects of the owner of that time. So you can feel the lifestyle of the Nawabs of Bengal. It has 23 galleries displaying historical things.",
+        "img": "https://i.ibb.co/P6FyZy2/ahsan-monjil.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cox's Bazar",
+        "price": "3000",
+        "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts.",
+        "img": "https://i.ibb.co/S30fvTF/cocx-bazar.jpg"
+    }
+]
+
+
+
+
+
