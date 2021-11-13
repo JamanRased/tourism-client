@@ -10,7 +10,7 @@ const Booking = () => {
     
     const email = sessionStorage.getItem("email");
     useEffect(()=>{
-        fetch(`http://localhost:5000/services/${serviceId}`)
+        fetch(`https://afternoon-peak-46524.herokuapp.com/services/${serviceId}`)
         .then(res => res.json())
         .then(data => setService(data))
     })
@@ -19,7 +19,7 @@ const Booking = () => {
         data.email = email;
         data.status = "pending";
 
-        fetch("http://localhost:5000/confirmOrder", {
+        fetch("https://afternoon-peak-46524.herokuapp.com/confirmOrder", {
             method: "POST",
             headers: { "content-type": "application/json" },
             body: JSON.stringify(data),
